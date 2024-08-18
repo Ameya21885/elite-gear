@@ -1,0 +1,576 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Headphones",
+      "image": ["headphones.jpg"],
+      "description": "Latest gadgets and devices.",
+      "products": [
+        {
+          "id": 101,
+          "name": "Smartphone XYZ",
+          "price": 699.99,
+          "like": true,
+          "images": ["headphones.jpg"],
+          "rating": 4.5,
+          "description": "A high-end smartphone with the latest features including a 6.5-inch display, 128GB storage, and a 48MP camera."
+        },
+        {
+          "id": 102,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.7,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 103,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.7,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 104,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images":["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 105,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 106,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images":["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 107,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 108,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images":["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 109,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 1010,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 1011,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 1012,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 1013,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 1014,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+          "id": 1015,
+          "name": "Laptop ABC",
+          "price": 999.99,
+          "like": false,
+          "images": ["headphones.jpg"],
+          "rating": 4.0,
+          "description": "A powerful laptop with 16GB RAM and 512GB SSD."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Wireless Earbuds",
+      "image": ["wireless-earbds.jpg"],
+      "description": "Trendy clothes and accessories.",
+      "products": [
+        {
+          "id": 201,
+          "name": "Designer Dress",
+          "price": 129.99,
+          "like": true,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A stylish dress for special occasions."
+        },
+        {
+          "id": 202,
+          "name": "Leather Jacket",
+          "price": 199.99,
+          "like": false,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.8,
+          "description": "A classic leather jacket for everyday wear."
+        },
+        {
+          "id": 203,
+          "name": "Designer Dress",
+          "price": 129.99,
+          "like": true,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.7,
+          "description": "A stylish dress for special occasions."
+        },
+        {
+          "id": 204,
+          "name": "Leather Jacket",
+          "price": 199.99,
+          "like": false,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A classic leather jacket for everyday wear."
+        },
+        {
+          "id": 205,
+          "name": "Designer Dress",
+          "price": 129.99,
+          "like": true,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A stylish dress for special occasions."
+        },
+        {
+          "id": 206,
+          "name": "Leather Jacket",
+          "price": 199.99,
+          "like": false,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A classic leather jacket for everyday wear."
+        },
+        {
+          "id": 207,
+          "name": "Designer Dress",
+          "price": 129.99,
+          "like": true,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A stylish dress for special occasions."
+        },
+        {
+          "id": 208,
+          "name": "Leather Jacket",
+          "price": 199.99,
+          "like": false,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A classic leather jacket for everyday wear."
+        },
+        {
+          "id": 209,
+          "name": "Designer Dress",
+          "price": 129.99,
+          "like": true,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A stylish dress for special occasions."
+        },
+        {
+          "id": 2010,
+          "name": "Leather Jacket",
+          "price": 199.99,
+          "like": false,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A classic leather jacket for everyday wear."
+        },
+        {
+          "id": 2011,
+          "name": "Designer Dress",
+          "price": 129.99,
+          "like": true,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A stylish dress for special occasions."
+        },
+        {
+          "id": 2012,
+          "name": "Leather Jacket",
+          "price": 199.99,
+          "like": false,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A classic leather jacket for everyday wear."
+        },
+        {
+          "id": 2013,
+          "name": "Designer Dress",
+          "price": 129.99,
+          "like": true,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A stylish dress for special occasions."
+        },
+        {
+          "id": 2014,
+          "name": "Leather Jacket",
+          "price": 199.99,
+          "like": false,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A classic leather jacket for everyday wear."
+        },
+        {
+          "id": 2015,
+          "name": "Designer Dress",
+          "price": 129.99,
+          "like": true,
+          "images": ["wireless-earbds.jpg"],
+          "rating": 4.0,
+          "description": "A stylish dress for special occasions."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speakers",
+      "image": ["bluetooth-speaker.jpg"],
+      "description": "Essential appliances for your home.",
+      "products": [
+        {
+          "id": 301,
+          "name": "Microwave Oven",
+          "price": 249.99,
+          "like": true,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.3,
+          "description": "A compact microwave oven for quick cooking."
+        },
+        {
+          "id": 302,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.4,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 303,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.1,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 304,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.3,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 305,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.2,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 306,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.0,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 307,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.6,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 308,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.8,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 309,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.0,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 3010,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.0,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 3011,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.0,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 3012,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.0,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 3013,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.0,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 3014,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.0,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 3015,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["bluetooth-speaker.jpg"],
+          "rating": 4.6,
+          "description": "A spacious refrigerator with energy-saving features."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Smart Watches",
+      "image": ["smart-watches.jpg"],
+      "description": "Essential appliances for your home.",
+      "products": [
+        {
+          "id": 401,
+          "name": "Microwave Oven",
+          "price": 249.99,
+          "like": true,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.3,
+          "description": "A compact microwave oven for quick cooking."
+        },
+        {
+          "id": 402,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.4,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 403,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.6,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 404,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.5,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 405,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.1,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 406,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.5,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 407,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.2,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 408,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.4,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 409,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.3,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 4010,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.0,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 4011,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.6,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 4012,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.9,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 4013,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.5,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 4014,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.8,
+          "description": "A spacious refrigerator with energy-saving features."
+        },
+        {
+          "id": 4015,
+          "name": "Refrigerator 123",
+          "price": 799.99,
+          "like": false,
+          "images": ["smart-watches.jpg"],
+          "rating": 4.7,
+          "description": "A spacious refrigerator with energy-saving features."
+        }
+      ]
+    }
+  ]
+}
